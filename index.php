@@ -1,0 +1,2 @@
+<?php
+include('./dbconfig.php');
